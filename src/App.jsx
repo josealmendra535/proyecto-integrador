@@ -10,7 +10,7 @@ function App() {
     <div>
       <NavBar />
       <ItemListContainer saludo={"Hola Mundo"} />
-
+      
       <img src={banner} alt=""width={100} />
       <Contador />
     </div>
